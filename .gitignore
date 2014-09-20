@@ -27,3 +27,5 @@ SparkCore/res/values/local_build.xml
 
 */.metadata/
 */.settings/
+
+.DS_Store
